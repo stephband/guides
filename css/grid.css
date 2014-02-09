@@ -28,19 +28,6 @@
 	    -ms-transition-timing-function: ease-out;
 	     -o-transition-timing-function: ease-out;
 	        transition-timing-function: ease-out;
-
-	/*
-	background-image: -webkit-repeating-linear-gradient(0deg, rgba(0, 0, 0, 0), transparent 23px, #4C565C 23px, #4C565C 24px);
-	background-image:    -moz-repeating-linear-gradient(0deg,      transparent, transparent 23px, #4C565C 23px, #4C565C 24px);
-	background-image:     -ms-repeating-linear-gradient(0deg,      transparent, transparent 23px, #4C565C 23px, #4C565C 24px);
-	background-image:      -o-repeating-linear-gradient(0deg,      transparent, transparent 23px, #4C565C 23px, #4C565C 24px);
-	background-image:         repeating-linear-gradient(0deg,      transparent, transparent 23px, #4C565C 23px, #4C565C 24px);
-	background-repeat: repeat-y;
-	*/
-	/*
-	background-image: url('../images/grid-line.png');
-	background-repeat: repeat;
-	*/
 	
 	z-index: 10;
 }
