@@ -58,6 +58,8 @@
 
 .grid-button {
 	font-size: 0.625rem;
+	line-height: 1.5rem;
+	height: auto;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
 	text-transform: uppercase;
