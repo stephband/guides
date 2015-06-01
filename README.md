@@ -1,4 +1,4 @@
 guides
 ======
 
-Adds a choice of toggle-able grid overlays to the page.
+Adds a choice of toggle-able guides to the page.
