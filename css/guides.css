@@ -69,12 +69,13 @@
 	text-transform: uppercase;
 	border-radius: 0.25rem;
 	opacity: 0.4;
-	color: #d8d8d8;
+	color: #333333;
 }
 
 .guide-button:hover,
 .guide-button.on {
 	opacity: 1;
+	background-color: rgba(138, 165, 159, 0.8);
 }
 
 .guide-button:hover {
